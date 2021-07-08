@@ -1,5 +1,5 @@
 # Online-Organ-Donation
-A DBMS project on Online Organ Donation and Management
+A DBMS project on Online Organ Donation Registration and Management
 
 ### Abstract
 
